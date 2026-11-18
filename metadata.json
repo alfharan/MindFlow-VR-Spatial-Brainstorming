@@ -1,0 +1,6 @@
+{
+  "name": "MindFlow VR – Spatial Brainstorming",
+  "description": "Aplikasi mind mapping 3D spatial brainstorming untuk menyusun ide, menghubungkan konsep, dan membuat diagram menggunakan interaksi tangan virtual dan webcam gesture.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
